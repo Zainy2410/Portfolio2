@@ -156,3 +156,8 @@ footer a {
 footer a:hover {
     color: #f4beca;
 }
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
