@@ -161,3 +161,7 @@ footer a:hover {
     height: 250px;
     object-fit: cover;
 }
+
+.progress-bar {
+    background-color: #a42844;
+}
