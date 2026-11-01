@@ -37,7 +37,6 @@ body {
 footer {
     background-color: #831F35;
     color: #ffffff;
-    text-align: center;
     padding: 20px;
     margin-top: 40px;
 }
@@ -147,4 +146,14 @@ iframe {
     border-radius: 10px;
     border: 3px solid #f4beca;
     margin-bottom: 10px;
+}
+
+footer a {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-left: 15px;
+}
+
+footer a:hover {
+    color: #f4beca;
 }
