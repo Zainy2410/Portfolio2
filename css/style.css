@@ -68,20 +68,6 @@ input, textarea {
     font-size: 16px;
 }
 
-button {
-    margin-top: 15px;
-    padding: 10px 20px;
-    background-color: #a42844;
-    color: #ffffff;
-    border: none;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #831F35;
-}
-
 table {
     border-collapse: collapse;
     width: 100%;
@@ -171,4 +157,15 @@ footer a:hover {
     height: 80px;
     display: block;
     margin: 0 auto 2.5rem;
+}
+
+.carousel-item img {
+    height: 650px;
+    object-fit: cover;
+    object-position: center;
+}
+
+#carouselExampleCaptions {
+    max-width: 500px;
+    margin: 0 auto;
 }
