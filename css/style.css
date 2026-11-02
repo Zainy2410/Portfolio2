@@ -168,3 +168,9 @@ footer a:hover {
     max-width: 500px;
     margin: 0 auto;
 }
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: transparent;
+    margin-top: 0;
+}
