@@ -165,3 +165,10 @@ footer a:hover {
 .progress-bar {
     background-color: #a42844;
 }
+
+.swiper-slide img {
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin: 0 auto 2.5rem;
+}
